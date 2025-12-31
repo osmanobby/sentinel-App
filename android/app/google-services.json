@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73004024362",
+    "project_id": "sentinel-e2ded",
+    "storage_bucket": "sentinel-e2ded.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73004024362:android:8f784cfebcf80b8e5ff953",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRf-FxqDSAFdITe_2sTmn2YxI_JesDRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
